@@ -1,7 +1,1 @@
-numpy
-scipy
-scikit-image
 fonttools
-pillow
-trimesh
-fast-simplification
